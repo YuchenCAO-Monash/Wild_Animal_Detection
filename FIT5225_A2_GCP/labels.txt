@@ -1,0 +1,46 @@
+d7971685-4676-90e6-3a36-ef116f513c93;aves;craciformes;megapodiidae;alectura;lathami;australian brushturkey
+6ab744a8-2b47-467e-b020-6d6f3e0bfc83;mammalia;dasyuromorphia;dasyuridae;antechinus;agilis;agile antechinus
+27fb143e-b1a4-3209-26bd-60fa12145746;mammalia;artiodactyla;bovidae;bos;taurus;cattle
+fff77bb9-028b-418e-89c0-7d32ed1439b9;aves;charadriiformes;burhinidae;burhinus;grallarius;bush thick-knee
+a291ead6-5faa-4c3e-af9d-53539ec4f761;mammalia;carnivora;canidae;canis;familiaris;dingo
+b78b2bd7-4ccd-4fd7-8519-9462b884537d;aves;columbiformes;columbidae;chalcophaps;longirostris;pacific emerald dove
+fa374299-b42b-4e40-bef6-c9894a8fec9c;aves;passeriformes;pachycephalidae;colluricincla;harmonica;grey shrikethrush
+d37bafa6-1016-4693-9ab0-317a9738e16f;aves;passeriformes;corcoracidae;corcorax;melanorhamphos;white-winged chough
+b2970a27-4413-4b99-b777-29f0b56632a0;aves;coraciiformes;alcedinidae;dacelo;novaeguineae;laughing kookaburra
+f28e30ab-ee35-e629-5d26-a9a662f46b84;mammalia;artiodactyla;cervidae;dama;dama;fallow deer
+44e634c2-78f9-4183-9e00-33f36a4a141e;aves;passeriformes;petroicidae;eopsaltria;australis;eastern yellow robin
+b5af2e0a-b648-0f9a-0252-6f87d6a57794;mammalia;carnivora;felidae;felis;catus;domestic cat
+68d553ae-a460-488e-8a5e-b906dcc6ae93;aves;columbiformes;columbidae;geopelia;humeralis;bar-shouldered dove
+097f5250-27ca-4204-833a-6f813294a912;aves;passeriformes;artamidae;gymnorhina;tibicen;australian magpie
+7d3ad53f-fd85-87d0-811f-1aaf74b87e67;Mammalia;Primates;Hominidae;Homo;sapiens;human
+f830fdd9-ad85-32fc-0005-6e2da557f3b1;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot
+90c13d6e-a117-92c8-ee41-4e4f817e2daf;mammalia;lagomorpha;leporidae;lepus;europaeus;european hare
+01c66097-4e00-43b3-b8ad-a15d2c45d50b;mammalia;diprotodontia;macropodidae;macropus;giganteus;eastern gray kangaroo
+886bc598-1149-4507-b2e5-63c6098820e9;aves;passeriformes;menuridae;menura;novaehollandiae;superb lyrebird
+f666fc66-9b9d-10e6-51a4-f11ee5592493;mammalia;rodentia;muridae;mus;musculus;house mouse
+602b46ae-0d39-57f0-6cc3-25fb11c6d187;mammalia;lagomorpha;leporidae;oryctolagus;cuniculus;european rabbit
+d5b17565-2220-4d49-85e6-00e1295f6169;mammalia;peramelemorphia;peramelidae;perameles;nasuta;long-nosed bandicoot
+8860b06d-fa8a-462e-8a8d-0f65dfd9ac5c;aves;passeriformes;pittidae;pitta;versicolor;noisy pitta
+a451c12a-2033-4e2c-bb4a-4db4225ad292;mammalia;rodentia;muridae;rattus;;
+f97e5485-9bda-4eeb-83a3-d65ba57f410c;mammalia;rodentia;muridae;rattus;fuscipes;australian bush rat
+fba3eb97-ca1c-c0d8-246a-d69a5c30f7aa;mammalia;rodentia;muridae;rattus;rattus;black rat
+165d0bfa-d789-4063-bef5-e61a2e833509;aves;passeriformes;artamidae;strepera;graculina;pied currawong
+204f9d4a-daaf-fc77-414b-d5afbd2871f9;mammalia;artiodactyla;suidae;sus;scrofa;wild boar
+fd34b284-56a4-4cb4-af9b-1f643f40456b;mammalia;monotremata;tachyglossidae;tachyglossus;aculeatus;australian echidna
+cbdd0d9a-73ed-494b-b9df-e0f4bab52d24;mammalia;diprotodontia;macropodidae;thylogale;stigmatica;red-legged pademelon
+e3df98de-20bf-44e2-a0a6-6fb2adc35519;mammalia;diprotodontia;phalangeridae;trichosurus;caninus;short-eared possum
+a17d1622-0914-41da-a2b9-e220f45d3185;mammalia;diprotodontia;phalangeridae;trichosurus;cunninghami;mountain brushtail opossum
+c745efda-96b8-426b-80b1-f65d2a12f45b;mammalia;diprotodontia;phalangeridae;trichosurus;vulpecula;common brushtail
+68f9743b-303b-fb54-035c-deadfd421b9e;reptilia;squamata;varanidae;varanus;varius;lace monitor
+72b46f39-9cd9-446d-bd92-90f3877b7f57;mammalia;diprotodontia;vombatidae;vombatus;ursinus;common wombat
+eba6dbf7-4ef6-6e38-c1c9-58b070f03f86;mammalia;carnivora;canidae;vulpes;vulpes;red fox
+3afdd398-39f2-430c-9301-74659d81044e;mammalia;diprotodontia;macropodidae;wallabia;bicolor;swamp wallaby
+36b9abce-005b-439a-858f-1660e5027ccb;mammalia;carnivora;canidae;canis;dingo;dingo
+dd62f03a-51d3-1cc1-3771-c0774c62d30f;mammalia;artiodactyla;bovidae;capra;hircus;domestic goat
+8219d541-8bb8-93bb-c2ca-1770e7b7a114;Aves;Struthioniformes;Casuariidae;Casuarius;casuarius;southern cassowary
+9350bbab-aab4-4d4b-b935-98d05dada7e2;aves;passeriformes;petroicidae;heteromyias;cinereifrons;grey-headed robin
+1f0c21d7-be46-4e1b-b15d-8b716790ad26;mammalia;diprotodontia;hypsiprymnodontidae;hypsiprymnodon;moschatus;musky rat kangaroo
+023168e9-46eb-4afd-9b4f-88ea8df43144;aves;passeriformes;orthonychidae;megapodius;reinwardt;orange-footed scrubfowl
+174e8336-5636-4aa3-87ce-d08ea5712f99;mammalia;diprotodontia;macropodidae;notamacropus;rufogriseus;red-necked wallaby
+b21c0c3c-e62d-4d2a-abe3-f68f4c6b5f80;mammalia;rodentia;muridae;orthonyx;spaldingii;northern chowchilla
+ef36b011-8f1d-9ce6-7633-e714e31c7d9a;Mammalia;Rodentia;Muridae;Uromys;caudimaculatus;giant white-tailed rat
