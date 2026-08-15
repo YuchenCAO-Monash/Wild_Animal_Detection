@@ -1,6 +1,6 @@
 Frontend Test
 Step 1:
-Download and unzip the FIT5225_A2_Group66_Frontend file.
+Download and unzip the Frontend file.
 Step 2: 
 Open terminal
 $ cd <your_unzip_file>
@@ -15,7 +15,7 @@ Enable your Artifact Registry function in GCP.
 Your device must install the “Docker Desktop” application.
 Visual Studio Code is an option choice (best to use it).
 Step 1:
-Download and unzip the FIT5225_A2_Group66_GCP
+Download and unzip the GCP
 Step 2: 
 Open your terminal or VScode (I will be using VScode for the demonstration)
 $ gcloud auth login // login your GCP account (if there is an error occurred, install GCP CLI by using terminal)
@@ -23,15 +23,15 @@ $ gcloud config set project YOUR_PROJECT_ID // select your project
 $ gcloud services enable artifactregistry.googleapis.com // enable functions
 $ gcloud services enable run.googleapis.com // enable functions
 $ gcloud services enable cloudbuild.googleapis.com // enable functions
-$ gcloud artifacts repositories create fit5225-repo \
+$ gcloud artifacts repositories create WAD-repo \
  --repository-format=docker \
  --location=australia-southeast1 \
- --description="FIT5225 Docker images" // create repository
+ --description="Docker images" // create repository
 $ gcloud auth configure-docker australia-southeast2-docker.pkg.dev // configure Docker login to GCP
-$ docker build -t australia-southeast2-docker.pkg.dev/YOUR_PROJECT_ID/fit5225-repo/PROJECT_NAME:version .  // build docker image
-$ docker push australia-southeast2-docker.pkg.dev/YOUR_PROJECT_ID/fit5225-repo/PROJECT_NAME:version
-$ gcloud run deploy fit5225-app \
- --image australia-southeast2-docker.pkg.dev/YOUR_PROJECT_ID/fit5225-repo/PROJECT_NAME:version \
+$ docker build -t australia-southeast2-docker.pkg.dev/YOUR_PROJECT_ID/WAD-repo/PROJECT_NAME:version .  // build docker image
+$ docker push australia-southeast2-docker.pkg.dev/YOUR_PROJECT_ID/WAD-repo/PROJECT_NAME:version
+$ gcloud run deploy WAD-app \
+ --image australia-southeast2-docker.pkg.dev/YOUR_PROJECT_ID/WAD-repo/PROJECT_NAME:version \
  --platform managed \
  --region australia-southeast1 \
  --allow-unauthenticated // deploy the docker image on the GCP Cloud Run
